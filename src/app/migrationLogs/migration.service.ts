@@ -15,7 +15,6 @@ export class MigrationDataService {
 
     getLogs(): Observable<IMigrationLog[]> {
         return this._http.get<IMigrationLog[]>(this._dbUrl)
-            //.do(data => console.log('All: ' + JSON.stringify(data)))
             .catch(this.handleError);
     }
 

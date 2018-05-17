@@ -23,6 +23,7 @@ export class MigrationLogListComponent implements OnInit{
     showImage: boolean = false;
     errorMessage: string;
     _listFilter: string;
+    rowColor: string;
     
     get listFilter(): string{
         return this._listFilter;
@@ -47,8 +48,6 @@ export class MigrationLogListComponent implements OnInit{
                                                      || (log.OldAsset.toLocaleLowerCase().indexOf(filterBy) !== -1)
                                                      || (log.Notes.toLocaleLowerCase().indexOf(filterBy) !== -1)
                                                      || (log.Technician.toLocaleLowerCase().indexOf(filterBy) !== -1));
-        
-        //need to find a way to filter all
     }
 
     ngOnInit(): void {
@@ -68,6 +67,11 @@ export class MigrationLogListComponent implements OnInit{
 
     onRatingClicked(message: string): void {
         this.pageTitle = 'Migration Log List:' + message
+    }
+
+    checkColor(): string {
+
+        return "lowVal"
     }
 
 }
