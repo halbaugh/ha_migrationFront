@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { MigrationDataService } from "./migrationLogs/migration.service";
 
 @Component({
-  selector: 'pm-root',
+  selector: 'migration-root',
   template: `
   <div><h1>{{pageTitle}}</h1>
     <ml-items></ml-items>
