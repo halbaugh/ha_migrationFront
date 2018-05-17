@@ -1,0 +1,232 @@
+[
+  {
+    "UserName": "oconnoal",
+    "Contact": 0,
+    "OldAsset": "A-00103912",
+    "NewAsset": "A-00103912",
+    "Name": "Aimee O'Conner",
+    "Completion": "36%",
+    "Notes": "-----------",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "USERNAME",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00104959",
+    "Name": "William Durner",
+    "Completion": "0%",
+    "Notes": "toughbook; deployed?",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "USERNAME",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00105062",
+    "Name": "Ryan Spalding",
+    "Completion": "0%",
+    "Notes": "toughbook; deployed?",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "USERNAME",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00105367",
+    "Name": "TS Loaner",
+    "Completion": "0%",
+    "Notes": "-----------",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "USERNAME",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00106223",
+    "Name": "Vaughn Evans",
+    "Completion": "0%",
+    "Notes": "toughbook; deployed?",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "USERNAME",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107175",
+    "Name": "USER",
+    "Completion": "0%",
+    "Notes": "-----------",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "hollingj",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107411",
+    "Name": "Gregory J. Hollinger",
+    "Completion": "67%",
+    "Notes": "Toughbook Delivery",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "naughtrv",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107416",
+    "Name": "Ronald V. Naughton",
+    "Completion": "40%",
+    "Notes": "Toughbook Delivery",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "gregorkw",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107417",
+    "Name": "Kenneth W. Gregory",
+    "Completion": "0%",
+    "Notes": "Toughbook delivery",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "nortonjd",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107419",
+    "Name": "James D. Norton",
+    "Completion": "43%",
+    "Notes": "Toughbook delivery",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "defelinb",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107420",
+    "Name": "Nicholas B. Defelice",
+    "Completion": "20%",
+    "Notes": "Toughbook Delivery",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "burgrafrw",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107421",
+    "Name": "Robert W. Burgraff",
+    "Completion": "59%",
+    "Notes": "Toughbook Delivery",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "rosefe",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107450",
+    "Name": "Francie Rose",
+    "Completion": "67%",
+    "Notes": "Delivered.  Update Zen for new hires.  Needs Zen Audit.",
+    "Technician": "Hunter"
+  },
+  {
+    "UserName": "simmona",
+    "Contact": 0,
+    "OldAsset": "A-00",
+    "NewAsset": "A-00107451",
+    "Name": "April Simmons",
+    "Completion": "67%",
+    "Notes": "Delivered.  April Simmons - waiting for accoutn creation ot move.",
+    "Technician": "Hunter"
+  },
+  {
+    "UserName": "tbd",
+    "Contact": 0,
+    "OldAsset": "A-00NEW",
+    "NewAsset": "A-00107454",
+    "Name": "tbd",
+    "Completion": "65%",
+    "Notes": "WO# 56333 Deliever TBD.  New Hire - Not assigned yet.",
+    "Technician": "Hunter"
+  },
+  {
+    "UserName": "underwj",
+    "Contact": 0,
+    "OldAsset": "A-00NEW",
+    "NewAsset": "A-00107458",
+    "Name": "Underwood, Josh",
+    "Completion": "52%",
+    "Notes": "Finish basic image and match Travis Harrod.  Don't worry about GED.",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "brookls",
+    "Contact": 0,
+    "OldAsset": "A-00103690",
+    "NewAsset": "A-00107496",
+    "Name": "Brook, Linda S.",
+    "Completion": "0%",
+    "Notes": "---------",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "blackitj",
+    "Contact": 8821,
+    "OldAsset": "A-00104486",
+    "NewAsset": "A-00107655",
+    "Name": "Blackistone, Tina J.",
+    "Completion": "52%",
+    "Notes": "WO #57272 NEW HIRE",
+    "Technician": "Hunter"
+  },
+  {
+    "UserName": "teterwj",
+    "Contact": 8383,
+    "OldAsset": "A-00103163",
+    "NewAsset": "A-00107667",
+    "Name": "Teter, William J.",
+    "Completion": "57%",
+    "Notes": "On hold until doors system switched to Genetech. WO#55586",
+    "Technician": "Hunter"
+  },
+  {
+    "UserName": "whittrl",
+    "Contact": 2335,
+    "OldAsset": "A-00103176",
+    "NewAsset": "A-00107669",
+    "Name": "Whitt, Roxana L.",
+    "Completion": "54%",
+    "Notes": "WO# 55531| have PW. Not using PC rest of today",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "davenn",
+    "Contact": 0,
+    "OldAsset": "A-00102329",
+    "NewAsset": "A-00107670",
+    "Name": "Dave, Nikunj N.",
+    "Completion": "0%",
+    "Notes": "Top of right stack.",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": "lewandrf",
+    "Contact": 2250,
+    "OldAsset": "A-00103173",
+    "NewAsset": "A-00107677",
+    "Name": "Lewandowski, Richard F.",
+    "Completion": "69%",
+    "Notes": "WO # 57028 : Adobe Pro 17 and Civ +. CHECK INSTALLS",
+    "Technician": "CSSC"
+  },
+  {
+    "UserName": 0,
+    "Contact": 0,
+    "OldAsset": "A-00102874",
+    "NewAsset": "A-00107681",
+    "Name": "Flag Ponds 2",
+    "Completion": "0%",
+    "Notes": "-----------",
+    "Technician": "CSSC"
+  }
+]
