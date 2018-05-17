@@ -14,11 +14,11 @@ th {
 
 
 td.lowVal {
-    background-color: rgba(255, 0, 0, 0.05);
+    background-color: rgba(255, 0, 0, 0.25);
 }
 td.medVal {
-    background-color: rgba(255, 196, 0, 0.05);
+    background-color: rgba(255, 196, 0, 0.25);
 }
 td.highVal {
-    background-color: rgba(51, 255, 0, 0.05);
+    background-color: rgba(51, 255, 0, 0.25);
 }
