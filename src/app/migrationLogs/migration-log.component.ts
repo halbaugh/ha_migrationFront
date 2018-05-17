@@ -6,9 +6,6 @@ import { Component, OnInit } from "@angular/core";
 import { IMigrationLog } from "./migLog";
 import { MigrationDataService } from './migration.service';
 
-
-
-
 @Component({
     selector: 'ml-items',
     templateUrl: './migration-log-list.component.html',
@@ -69,9 +66,6 @@ export class MigrationLogListComponent implements OnInit{
         this.pageTitle = 'Migration Log List:' + message
     }
 
-    checkColor(): string {
-
-        return "lowVal"
-    }
 
 }
+
